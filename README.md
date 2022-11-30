@@ -18,5 +18,5 @@ There is a cart component to keep track of the cart, there is a filter component
 The cart and filter uses elements from the products component, each of the individual animals are either added to the cart or sorted. The cart and products compnent also interact because they both have the same cart state passed into them, so the cart can be updated based off of price and items in it as users add and remove items.
 
 ### How the User Triggers State Changes
-The user can trigger state changes by adding and removing animals from the cart. When a user adds animals to the cart the state representing the total price changes and the list of animals also changes. It either decreases or increases the price or adds or removes animals
+The user can trigger state changes by adding and removing animals from the cart. When a user adds animals to the cart the state representing the total price changes and the list of animals also changes. It either decreases or increases the price or adds or removes animals.
 
