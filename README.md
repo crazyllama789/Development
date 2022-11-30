@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://crazyllama789.github.io/development`
+If you used the stencil code, this is `https://crazyllama789.github.io/Development/`
 
 ### Goal and Value of the Application
 The goal of this application is to create a webiste so zookeepers can order animals for their zoo online. They can purchase multiple animals of their choice and sort through the highest to lowest prices, the location where the animal is found, and if the animal is a herbivore, carnivore, or omnivore. 
