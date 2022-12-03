@@ -14,7 +14,7 @@ code {
 }
 a{
   text-decoration: none;
-  color: brown
+  color: "#282c34"
 }
 h1{
   margin: 0;
@@ -38,36 +38,42 @@ h1{
 }
 
 .item_background{
-  background-color: blanchedalmond;
+  background-color: #8EB2CC;
+  border-radius: 30px;
+  padding: 5px;
   vertical-align: text-top;
   margin-right: 2rem;
   padding-right: 1rem;
   padding-left: 1rem;
-  border:3px solid brown;
+  border:3px solid #282c34;
 }
 
 .image_height{
-  height: 12rem;
-  width: 15rem;
+  height: 14rem;
+  width: 17rem;
+  border-radius: 30px;
+  padding: 5px;
 }
 
 button{
-  background-color: brown;
-  color: white;
+  background-color: #8EB2CC;
+  color: #282c34;
   padding: 0.3;
+  border-radius: 30px;
+  padding: 5px;
   width: 100%;  
 }
 
 .image_outline{
-  background-color: white;
   padding: 1%;
   margin: 1%;
 }
 
 .add_remove{
   width: 1.5rem;
-  margin: 1rem
-
+  margin: 1rem;
+  background-color:  #282c34;
+  color: white;
 }
 
 .round {
@@ -75,7 +81,7 @@ button{
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    border: 1px solid red;
+    border: 1px solid  #282c34;
     
   }
 
@@ -86,15 +92,15 @@ button{
     border-radius: 50%;
     color: white;
     background-color: white;
-    border: 2px solid brown;
+    border: 2px solid  #282c34;
   }
 
   .my-button:active {
     transform: scale(0.98);
-    background-color: brown;
+    background-color:  #282c34;
     border: 2px solid white;
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 .my-button:focus {
-  background-color: brown;
+  background-color:  #282c34;
 }

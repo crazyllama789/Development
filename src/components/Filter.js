@@ -47,7 +47,7 @@ function Filter(props){
     return(
         <div> 
             <div class="checkbox item_background">
-            <h3 style={{color:"brown"}}> Filters:</h3>
+            <h3 style={{color:"#282c34"}}> Filters:</h3>
             <div style={{display:"block"}}> 
 
             <div id='hidden' style={{display:'block'}}>

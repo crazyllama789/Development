@@ -204,7 +204,7 @@ const original = () => {
     
   return (
     <div>
-      <h1  style={{textAlign:"center", color:"brown", justifyContent:"center"}}>We Bought a Zoo</h1>
+      <h1  style={{textAlign:"center", color:"#282c34", justifyContent:"center"}}>We Bought a Zoo</h1>
       <div style={{float:"right"}}>
       <Cart cart={cart} add={add} remove={remove} cost={cost} products={products}/> 
       </div>

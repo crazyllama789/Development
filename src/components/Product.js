@@ -3,7 +3,7 @@ function Product(props){
     return(
         <div className="image_outline">
             <img className="image_height" src={products.image} alt={products.name} />
-            <div style={{fontStyle:"-apple-system", color:"brown"}}>{products.name}</div>
+            <div style={{fontStyle:"-apple-system", color:"#282c34"}}>{products.name}</div>
             <div>
             <div style={{fontStyle:"italic"}}>Location: {products.location}</div>
             <div style={{fontStyle:"italic"}}>Type: {products.food}</div>
